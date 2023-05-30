@@ -1,7 +1,9 @@
 //complete this code
 class Animal {
 	constructor (species){}
-	makeSound(){}
+	makeSound(){
+		console.log("a sound the animal makes");
+	}
 	getter species(){}
 }
 
